@@ -34,6 +34,9 @@ Tools needed:
 * Louis Huang
 * Diliyor Yusupov
 
+
+
+
 ### USE CASE ###
 #### USER: ####
 1. Fly around on map
@@ -52,3 +55,4 @@ Tools needed:
 7. Add SEO meta tags to main.hbs
 8. Build up readme file for Presentation
 9. Host on server for presentation
+
