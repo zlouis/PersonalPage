@@ -1,21 +1,20 @@
 # RCB-MLSD #
-```
-## Driver ##
+
+### Driver ###
 Players fly around on a map and show others flying around on a live map
 
 ## Getting Started ##
-```
 The instructions will guide you through to installing the application on your local machine.
 
-##Prerequisites
+## Prerequisites ##
 Tools needed:
 * Terminal
 * MySQL
 ### Install ###
 > npm i 
-
+>
 ## Built With ##
-```
+
 * body-parser - https://www.npmjs.com/package/body-parser
 * express - https://www.npmjs.com/package/express
 * express-handlebars - https://www.npmjs.com/package/express-handlebars
@@ -27,7 +26,7 @@ Tools needed:
 * sequelize - https://www.npmjs.com/package/sequelize
 
 ## Authors ##
-```
+
 * Mark Schwanda
 * Stacy Trent
 * Louis Huang
