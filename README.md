@@ -1,6 +1,7 @@
 # PersonalPage
 
-~~testing~~
+My personal portfolio website
+  * includes development projects
 
 testing
 
