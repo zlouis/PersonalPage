@@ -10,6 +10,7 @@ The instructions will guide you through to installing the application on your lo
 Tools needed:
 * Terminal
 * MySQL
+
 ### Install ###
 > npm i 
 >
