@@ -1,7 +1,10 @@
 # PersonalPage
 
 My personal portfolio website
-  * includes development projects
+1. Development Projects includes:
+  * node hangman
+  * liriBot
+  * Sequelize Burgeer
 
 testing
 
